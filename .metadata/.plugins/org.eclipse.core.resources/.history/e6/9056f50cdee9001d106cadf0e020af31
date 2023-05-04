@@ -1,0 +1,5 @@
+package com.te.fileuploaddownload.entity;
+
+public class FileData {
+
+}

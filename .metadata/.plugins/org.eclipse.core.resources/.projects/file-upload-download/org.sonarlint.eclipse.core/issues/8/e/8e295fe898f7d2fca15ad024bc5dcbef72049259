@@ -1,0 +1,21 @@
+
+Y
+java:S1168,"&Return an empty array instead of null.(¥¹ï8Äİ‰ş0H½RMAJORZ
+CODE_SMELL
+~
+java:S3655@"RCall "imageData.isPresent()" or "!imageData.isEmpty()" before accessing the value.(ÿÑÃÚ8Ç‡—ş0H¿RMAJORZBUG
+o
+java:S25836"CChange this condition so that it does not always evaluate to "true"(ê¨—8–¦õ–ş0HÀRMAJORZBUG
+†	java:S116"TRename this field "FILE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è­¸Ï8–¦õ–ş0HÄRMINORZ
+CODE_SMELL
+o
+java:S2583"CChange this condition so that it does not always evaluate to "true"(Çşè8ÎîöŠş0HÅRMAJORZBUG
+–
+java:S1488A"^Immediately return this expression instead of assigning it to the temporary variable "images".(èùóÎúÿÿÿÿ8Ç‡—ş0HÉRMINORZ
+CODE_SMELL
+
+java:S1488)"^Immediately return this expression instead of assigning it to the temporary variable "images".(óüÍ(8­Òã•ş0HÌRMINORZ
+CODE_SMELL
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(è­¸Ï8–¦õ–ş0HÏRMINORZ
+CODE_SMELL
